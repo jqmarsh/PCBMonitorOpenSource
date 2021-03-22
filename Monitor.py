@@ -128,7 +128,7 @@ def pokemoncentermonitor():
     loop = 0
     body = str(input_url) + ' IS BACK IN STOCK!'
     user = 'JqMarshBooking@gmail.com'
-    pwd = 'kase cdsw cifl idsd'
+    pwd = ''
     recipient = input("Please Enter The Email Address Where You Would Like Notifications Sent To: ")
     subject = "Your Monitored Item @ " + str(Store) + " Is Back In Stock"
     while True:
@@ -185,7 +185,7 @@ def pokemoncentermonitorjpn():
     loop = 0
     body = str(input_url) + ' IS BACK IN STOCK!'
     user = 'JqMarshBooking@gmail.com'
-    pwd = 'kase cdsw cifl idsd'
+    pwd = ''
     recipient = input("Please Enter The Email Address Where You Would Like Notifications Sent To: ")
     subject = "Your Monitored Item @ " + str(Store) + " Is Back In Stock"
     while True:
@@ -242,7 +242,7 @@ def amazonmonitor():
     linespace()
     body = str(input_url) + ' IS BACK IN STOCK!'
     user = 'JqMarshBooking@gmail.com'
-    pwd = 'kase cdsw cifl idsd'
+    pwd = ''
     recipient = input("Please Enter The Email Address Where You Would Like Notifications Sent To: ")
     subject = "Your Monitored Item @ " + str(Store) + " Is Back In Stock"
     while True:
@@ -295,7 +295,7 @@ def walmartmonitor():
     linespace()
     body = str(input_url) + ' IS BACK IN STOCK!'
     user = 'JqMarshBooking@gmail.com'
-    pwd = 'kase cdsw cifl idsd'
+    pwd = ''
     recipient = input("Please Enter The Email Address Where You Would Like Notifications Sent To: ")
     subject = "Your Monitored Item @ " + str(Store) + " Is Back In Stock"
     while True:
@@ -338,7 +338,7 @@ def bestbuymonitor():
     linespace()
     body = str(input_url) + ' IS BACK IN STOCK!'
     user = 'JqMarshBooking@gmail.com'
-    pwd = 'kase cdsw cifl idsd'
+    pwd = ''
     recipient = input("Please Enter The Email Address Where You Would Like Notifications Sent To: ")
     subject = "Your Monitored Item @ " + str(Store) + " Is Back In Stock"
     while True:
@@ -391,7 +391,7 @@ def targetmonitor():
     linespace()
     body = str(input_url) + ' IS BACK IN STOCK!'
     user = 'JqMarshBooking@gmail.com'
-    pwd = 'kase cdsw cifl idsd'
+    pwd = ''
     recipient = input("Please Enter The Email Address Where You Would Like Notifications Sent To: ")
     subject = "Your Monitored Item @ " + str(Store) + " Is Back In Stock"
     while True:
